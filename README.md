@@ -1,7 +1,7 @@
 # Route-Direction-in-AR
 
-https://itunes.apple.com/us/app/route-direction-ar/id1284255454?ls=1&mt=8
-[ARKit demo :](https://www.youtube.com/watch?v=0nMcfBg_so0&t=5s)
+[iTune](https://itunes.apple.com/us/app/route-direction-ar/id1284255454?ls=1&mt=8)
+[ARKit demo](https://www.youtube.com/watch?v=0nMcfBg_so0&t=5s)
 
 Adding the Feature "Real World Path Direction" by tapping on Map. GoogleMap will give us the direction to that location from user location then click on "ARView" & you will get the real-world path direction.
 
